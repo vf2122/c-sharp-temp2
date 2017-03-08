@@ -1,0 +1,4 @@
+C:\Users\vini\Documents\Projeto - temp2\Temporada2\ObjetoTransferecia\bin\Debug\ObjetoTransferecia.dll
+C:\Users\vini\Documents\Projeto - temp2\Temporada2\ObjetoTransferecia\bin\Debug\ObjetoTransferecia.pdb
+C:\Users\vini\Documents\Projeto - temp2\Temporada2\ObjetoTransferecia\obj\Debug\ObjetoTransferecia.dll
+C:\Users\vini\Documents\Projeto - temp2\Temporada2\ObjetoTransferecia\obj\Debug\ObjetoTransferecia.pdb

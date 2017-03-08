@@ -1,0 +1,9 @@
+C:\Users\vini\Documents\Projeto - temp2\Temporada2\Negocios\bin\Debug\Negocios.dll
+C:\Users\vini\Documents\Projeto - temp2\Temporada2\Negocios\bin\Debug\Negocios.pdb
+C:\Users\vini\Documents\Projeto - temp2\Temporada2\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\vini\Documents\Projeto - temp2\Temporada2\Negocios\obj\Debug\Negocios.dll
+C:\Users\vini\Documents\Projeto - temp2\Temporada2\Negocios\obj\Debug\Negocios.pdb
+C:\Users\vini\Documents\Projeto - temp2\Temporada2\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\vini\Documents\Projeto - temp2\Temporada2\Negocios\bin\Debug\ObjetoTransferecia.dll
+C:\Users\vini\Documents\Projeto - temp2\Temporada2\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\vini\Documents\Projeto - temp2\Temporada2\Negocios\bin\Debug\ObjetoTransferecia.pdb

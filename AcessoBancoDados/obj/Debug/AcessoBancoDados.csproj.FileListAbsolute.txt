@@ -1,0 +1,5 @@
+C:\Users\vini\Documents\Projeto - temp2\Temporada2\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\vini\Documents\Projeto - temp2\Temporada2\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\vini\Documents\Projeto - temp2\Temporada2\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\vini\Documents\Projeto - temp2\Temporada2\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\vini\Documents\Projeto - temp2\Temporada2\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
